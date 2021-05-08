@@ -1,7 +1,9 @@
 <p align="center">
     <img src="https://img.shields.io/badge/version-1.0.0-blue">
     <img alt="Scrutinizer build (GitHub/Bitbucket)" src="https://img.shields.io/scrutinizer/build/g/dinushchathurya/srilankan-state-hospitals/main">
+    <img src="https://scrutinizer-ci.com/g/dinushchathurya/srilankan-state-hospitals/badges/quality-score.png?b=main">
     <img alt="Scrutinizer code quality (GitHub/Bitbucket)" src="https://img.shields.io/scrutinizer/quality/g/dinushchathurya/srilankan-state-hospitals/main">
+    <img src="https://scrutinizer-ci.com/g/dinushchathurya/srilankan-state-hospitals/badges/code-intelligence.svg?b=main">
     <img alt="Packagist Downloads" src="https://img.shields.io/packagist/dm/dinushchathurya/srilankan-state-hospitals">
     <img src="https://img.shields.io/badge/dependencies-up%20to%20date-orange">
     <img src="https://img.shields.io/badge/coverage-90%25-yellowgreen">
@@ -10,7 +12,7 @@
     <img alt="GitHub issues" src="https://img.shields.io/github/issues/dinushchathurya/srilankan-universities-faculties-degress?style=plastic">
     <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/dinushchathurya/srilankan-universities-faculties-degress?style=plastic">
     <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/dinushchathurya/srilankan-state-hospitals">
-    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/dinushchathurya/srilankan-universities-faculties-degress?style=plastic">
+    <!-- <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/dinushchathurya/srilankan-universities-faculties-degress?style=plastic"> -->
    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/dinushchathurya/srilankan-universities-faculties-degress">
     <a href="https://dinushchathurya.github.io/">
     <img alt="Website" src="https://img.shields.io/website?down_message=red&style=plastic&up_message=online&url=https%3A%2F%2Fdinushchathurya.github.io%2F">
